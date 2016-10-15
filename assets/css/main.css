@@ -21,9 +21,9 @@ button {
 }
 #egg {
     font-family: 'Inconsolata', monospace;
-    width:360px;
-    line-height: 7px;
-    font-size: 7px;
+    width:300px;
+    line-height: 6px;
+    font-size: 6px;
 }
 h1 {
     padding-top: 20%;
