@@ -90,7 +90,7 @@ a:visited {
     }
     h1 {
         padding-top: 10%;
-        margin-left: 5%;
+        margin-left: 10%;
     }
     button {
         display:block;
@@ -106,7 +106,7 @@ a:visited {
         font-weight:bold;
     }
     #app {
-        width:90%;
+        width:80%;
         height:auto;
         height: 400px;
     }
