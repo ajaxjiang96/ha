@@ -3,7 +3,7 @@
     font-family: 'Noto Sans', sans-serif;
 }
 body {
-    background: url("[images/bg.jpg");
+    background: url("images/bg.jpg");
     background-attachment: fixed;
     background-size:auto auto;
     background-repeat: no-repeat;
