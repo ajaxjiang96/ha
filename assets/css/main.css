@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Noto+Sans');
+@import url('https://fonts.googleapis.com/css?family=Inconsolata');
 * {
     font-family: 'Noto Sans', sans-serif;
 }
@@ -12,11 +13,17 @@ body {
     padding: 0px;
 }
 button {
-    padding-top: 430px;
+    padding-top: 360px;
     float: right;
 }
 #ha {
-    height: 230px;
+    height: 340px;
+}
+#egg {
+    font-family: 'Inconsolata', monospace;
+    width:360px;
+    line-height: 7px;
+    font-size: 7px;
 }
 h1 {
     padding-top: 20%;
@@ -33,7 +40,7 @@ h1 {
     border-radius: 4px;
     box-shadow: rgba(0, 0, 0, 0.2) 0px 10px 20px;
     background-color: white;
-    height:300px;
+    height:400px;
 }
 p.hint {
     float:right;
